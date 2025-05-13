@@ -32,7 +32,7 @@ Inertia is a new approach to building classic server-driven web apps. We call it
 
 Inertia allows you to create fully client-side rendered, single-page apps, without the complexity that comes with modern SPAs. Simply install this plugin, bootstrap your theme using our built-in command and away you go.
 
-This is an community Inertia adapter for applications powered by Wordpress.
+This is a community Inertia adapter for applications powered by Wordpress.
 
 For more information on InertiaJS, visit the [Official Website](https://inertiajs.com/).
 
